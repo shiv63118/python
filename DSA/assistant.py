@@ -1,3 +1,1 @@
-import subprocess
-
-subprocess.Popen("calc.exe")
+print("hello world")
