@@ -15,7 +15,7 @@ elif choice == 2:
     
 elif choice == 3:
     print("Your choice is kelvin..")
-    celsius = float(input("Enter your temperature in kelvin : "))
+    kelvin = float(input("Enter your temperature in kelvin : "))
     print(f"{kelvin} kelvin = {kelvin-273.15} celsius")
     print(f"{kelvin} kelvin = {(kelvin-273.15)*1.8+32} fahrenheit")
     
